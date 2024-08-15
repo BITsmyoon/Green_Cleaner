@@ -1,0 +1,8 @@
+level	name
+p	Acidobacteria
+p	Cyanobacteria
+p	Chloroflexi
+p	Deinococcus-Thermus
+p	Planctomycetes
+c	Alphaproteobacteria
+c	Betaproteobacteria
